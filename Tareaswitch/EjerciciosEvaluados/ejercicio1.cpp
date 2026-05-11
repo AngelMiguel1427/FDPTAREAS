@@ -1,7 +1,7 @@
 /* Calculadora Avanzada
 Mejora la calculadora simple agregando ^ para exponenciación y % para módulo.*/
 #include <iostream>
-#include <cmath> // Para la función pow
+#include <cmath> // Para la función pow y fmod
 using namespace std;
 int main ()
 {    
